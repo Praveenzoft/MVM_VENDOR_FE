@@ -1,0 +1,19 @@
+.custom-toast {
+  max-width: 500px;
+  /* Set the desired width */
+}
+
+.custom-toast {
+  max-width: 800px;
+  /* Set the desired width */
+}
+
+.errorMsg {
+  color: red;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.labelStyle {
+  font-size: 1.10rem !important;
+}

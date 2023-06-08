@@ -1,0 +1,10 @@
+{
+  "sign in": "تسجيل الدخول",
+  "email is required": "البريد الالكتروني مطلوب.",
+  "email is not valid": "البريد الإلكتروني غير صالح.",
+  "password required": "كلمة المرور مطلوبة.",
+  "password length": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل.",
+  "don't have an account": "",
+  "sign up": "اشتراك",
+  "forgot password": "هل نسيت كلمة السر"
+}
